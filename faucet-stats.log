@@ -1,0 +1,11 @@
+SESS 1678446567 {"st":1678446411,"ip":"::1","to":"0x4d08F44743D6DE38feB0F87f79Df68B84Fe8eb4A","val":"4000000000000000","hr":903,"no":105107,"loc":{},"id":"cb2d6fd1-3625-4f94-9669-a718619e04c6"}
+SESS 1678446818 {"st":1678446685,"ip":"::1","to":"0xc56E2d783729Fa21ac4CD711EBb895130335A4F3","val":"5100000000000000","hr":694,"no":90031,"loc":{},"id":"8b58d6ae-f639-4175-8009-7aae32ea6606"}
+SESS 1678446988 {"st":1678446935,"ip":"::1","to":"0x6F3641bfab20527a02520dA2b27cc789E2cF9a89","val":"700000000000000","hr":707,"no":33691,"loc":{},"id":"9571404c-5b78-4852-98ca-6098d8bf996e"}
+STATS 1678447200 {"cliCnt":2,"sessCnt":1,"sessIdl":0,"hashRate":706,"shareCnt":44,"shareVal":"4400000000000000","vrfyCnt":0,"vrfyMisa":0,"vrfyVal":"0","vrfyPen":"0","claimCnt":0,"claimVal":"0","slashCnt":0}
+SESS 1678447262 {"st":1678447095,"ip":"::1","to":"0xd4a677b7345eea9789Db802bEB82c7A248C1fdE6","val":"5600000000000000","hr":705,"no":115104,"loc":{},"id":"8d68fd34-3d84-4568-a0c3-3b85062993c9"}
+STATS 1678447800 {"cliCnt":0,"sessCnt":0,"sessIdl":0,"hashRate":0,"shareCnt":19,"shareVal":"1900000000000000","vrfyCnt":0,"vrfyMisa":0,"vrfyVal":"0","vrfyPen":"0","claimCnt":0,"claimVal":"0","slashCnt":0}
+SESS 1678448120 {"st":1678448085,"ip":"::1","to":"0x4d08F44743D6DE38feB0F87f79Df68B84Fe8eb4A","val":"1100000000000000","hr":700,"no":20837,"loc":{},"id":"bb5daf44-e9cf-4d8f-fabc-400e7dc87b9c"}
+STATS 1678448400 {"cliCnt":0,"sessCnt":0,"sessIdl":0,"hashRate":0,"shareCnt":11,"shareVal":"1100000000000000","vrfyCnt":0,"vrfyMisa":0,"vrfyVal":"0","vrfyPen":"0","claimCnt":0,"claimVal":"0","slashCnt":0}
+SESS 1678449453 {"st":1678449419,"ip":"::1","to":"0xc56E2d783729Fa21ac4CD711EBb895130335A4F3","val":"1000000000000000","hr":706,"no":19230,"loc":{},"id":"bc5f83f2-48e0-4ff8-cfc8-d9a9d1ce51a7"}
+STATS 1678449600 {"cliCnt":0,"sessCnt":0,"sessIdl":0,"hashRate":0,"shareCnt":10,"shareVal":"1000000000000000","vrfyCnt":0,"vrfyMisa":0,"vrfyVal":"0","vrfyPen":"0","claimCnt":0,"claimVal":"0","slashCnt":0}
+STATS 1678450200 {"cliCnt":0,"sessCnt":0,"sessIdl":0,"hashRate":0,"shareCnt":0,"shareVal":"0","vrfyCnt":0,"vrfyMisa":0,"vrfyVal":"0","vrfyPen":"0","claimCnt":0,"claimVal":"0","slashCnt":0}

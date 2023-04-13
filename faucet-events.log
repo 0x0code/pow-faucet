@@ -1,0 +1,98 @@
+2023-03-10 14:04:25  INFO     Web3 ChainCommon initialized with chainId 5
+2023-03-10 14:04:26  INFO     Wallet 0xCA9456991E0AA5d5321e88Bba44d405aAb401193:  0.246 ETH  [Nonce: 1]
+2023-03-10 14:06:51  INFO     Created new session: cb2d6fd1-3625-4f94-9669-a718619e04c6 (Remote IP: ::1)
+2023-03-10 14:09:27  INFO     Closed session: cb2d6fd1-3625-4f94-9669-a718619e04c6
+2023-03-10 14:09:33  INFO     # Received SIGINT signal - shutdown faucet
+2023-03-10 14:09:33  INFO     Persisted session data to faucet store: 1 sessions
+2023-03-10 14:10:49  INFO     Web3 ChainCommon initialized with chainId 5
+2023-03-10 14:10:49  INFO     Wallet 0xCA9456991E0AA5d5321e88Bba44d405aAb401193:  0.246 ETH  [Nonce: 1]
+2023-03-10 14:11:12  INFO     Returned error to client: [INVALID_ADDR] Cannot start session for 0x4d08F44743D6DE38feB0F87f79Df68B84Fe8eb4A (please wait 10min between requests)
+2023-03-10 14:11:25  INFO     Created new session: 8b58d6ae-f639-4175-8009-7aae32ea6606 (Remote IP: ::1)
+2023-03-10 14:13:38  INFO     Closed session: 8b58d6ae-f639-4175-8009-7aae32ea6606
+2023-03-10 14:13:42  INFO     # Received SIGINT signal - shutdown faucet
+2023-03-10 14:13:42  INFO     Persisted session data to faucet store: 2 sessions
+2023-03-10 14:14:55  INFO     Web3 ChainCommon initialized with chainId 97
+2023-03-10 14:14:56  INFO     Wallet 0xd4a677b7345eea9789Db802bEB82c7A248C1fdE6:  0.178 ETH  [Nonce: 7]
+2023-03-10 14:15:18  INFO     Returned error to client: [INVALID_ADDR] Cannot start session for 0xc56E2d783729Fa21ac4CD711EBb895130335A4F3 (please wait 10min between requests)
+2023-03-10 14:15:35  INFO     Created new session: 9571404c-5b78-4852-98ca-6098d8bf996e (Remote IP: ::1)
+2023-03-10 14:16:28  INFO     Closed session: 9571404c-5b78-4852-98ca-6098d8bf996e (claimable reward: 0.001)
+2023-03-10 14:18:15  INFO     Created new session: 8d68fd34-3d84-4568-a0c3-3b85062993c9 (Remote IP: ::1)
+2023-03-10 14:20:00  INFO     # STATS # clients: 2, sessions: 1 (706 H/s, 0 idle), shares: 44 (0.004 ETH), verify: 0 (reward: 0 ETH, missed: 0 / -0 ETH), claims: 0 (0 ETH)
+2023-03-10 14:21:02  INFO     Closed session: 8d68fd34-3d84-4568-a0c3-3b85062993c9 (claimable reward: 0.006)
+2023-03-10 14:24:58  INFO     Wallet 0xd4a677b7345eea9789Db802bEB82c7A248C1fdE6:  0.178 ETH  [Nonce: 7]
+2023-03-10 14:30:00  INFO     # STATS # clients: 0, sessions: 0 (0 H/s, 0 idle), shares: 19 (0.002 ETH), verify: 0 (reward: 0 ETH, missed: 0 / -0 ETH), claims: 0 (0 ETH)
+2023-03-10 14:30:51  INFO     # Received SIGINT signal - shutdown faucet
+2023-03-10 14:30:51  INFO     Persisted session data to faucet store: 4 sessions
+2023-03-10 14:34:30  INFO     Web3 ChainCommon initialized with chainId 97
+2023-03-10 14:34:31  INFO     Wallet 0xd4a677b7345eea9789Db802bEB82c7A248C1fdE6:  0.178 ETH  [Nonce: 7]
+2023-03-10 14:34:33  ERROR    Sending TX for 0x6F3641bfab20527a02520dA2b27cc789E2cF9a89 failed [try: 0]: Error: Returned error: invalid sender
+2023-03-10 14:34:36  INFO     Wallet 0xd4a677b7345eea9789Db802bEB82c7A248C1fdE6:  0.178 ETH  [Nonce: 7]
+2023-03-10 14:34:36  ERROR    Sending TX for 0x6F3641bfab20527a02520dA2b27cc789E2cF9a89 failed [try: 1]: Error: Returned error: invalid sender
+2023-03-10 14:34:39  INFO     Wallet 0xd4a677b7345eea9789Db802bEB82c7A248C1fdE6:  0.178 ETH  [Nonce: 7]
+2023-03-10 14:34:39  ERROR    Sending TX for 0x6F3641bfab20527a02520dA2b27cc789E2cF9a89 failed [try: 2]: Error: Returned error: invalid sender
+2023-03-10 14:34:41  INFO     Wallet 0xd4a677b7345eea9789Db802bEB82c7A248C1fdE6:  0.178 ETH  [Nonce: 7]
+2023-03-10 14:34:41  ERROR    Sending TX for 0x6F3641bfab20527a02520dA2b27cc789E2cF9a89 failed [try: 3]: Error: Returned error: invalid sender
+2023-03-10 14:34:44  INFO     Wallet 0xd4a677b7345eea9789Db802bEB82c7A248C1fdE6:  0.178 ETH  [Nonce: 7]
+2023-03-10 14:34:44  ERROR    Sending TX for 0xd4a677b7345eea9789Db802bEB82c7A248C1fdE6 failed [try: 0]: Error: Returned error: invalid sender
+2023-03-10 14:34:45  INFO     Created new session: bb5daf44-e9cf-4d8f-fabc-400e7dc87b9c (Remote IP: ::1)
+2023-03-10 14:34:46  INFO     Wallet 0xd4a677b7345eea9789Db802bEB82c7A248C1fdE6:  0.178 ETH  [Nonce: 7]
+2023-03-10 14:34:47  ERROR    Sending TX for 0xd4a677b7345eea9789Db802bEB82c7A248C1fdE6 failed [try: 1]: Error: Returned error: invalid sender
+2023-03-10 14:34:49  INFO     Wallet 0xd4a677b7345eea9789Db802bEB82c7A248C1fdE6:  0.178 ETH  [Nonce: 7]
+2023-03-10 14:34:49  ERROR    Sending TX for 0xd4a677b7345eea9789Db802bEB82c7A248C1fdE6 failed [try: 2]: Error: Returned error: invalid sender
+2023-03-10 14:34:52  INFO     Wallet 0xd4a677b7345eea9789Db802bEB82c7A248C1fdE6:  0.178 ETH  [Nonce: 7]
+2023-03-10 14:34:52  ERROR    Sending TX for 0xd4a677b7345eea9789Db802bEB82c7A248C1fdE6 failed [try: 3]: Error: Returned error: invalid sender
+2023-03-10 14:34:54  INFO     Wallet 0xd4a677b7345eea9789Db802bEB82c7A248C1fdE6:  0.178 ETH  [Nonce: 7]
+2023-03-10 14:35:20  INFO     Closed session: bb5daf44-e9cf-4d8f-fabc-400e7dc87b9c (claimable reward: 0.001)
+2023-03-10 14:35:22  ERROR    Sending TX for 0x4d08F44743D6DE38feB0F87f79Df68B84Fe8eb4A failed [try: 0]: Error: Returned error: invalid sender
+2023-03-10 14:35:25  INFO     Wallet 0xd4a677b7345eea9789Db802bEB82c7A248C1fdE6:  0.178 ETH  [Nonce: 7]
+2023-03-10 14:35:26  ERROR    Sending TX for 0x4d08F44743D6DE38feB0F87f79Df68B84Fe8eb4A failed [try: 1]: Error: Returned error: invalid sender
+2023-03-10 14:35:28  INFO     Wallet 0xd4a677b7345eea9789Db802bEB82c7A248C1fdE6:  0.178 ETH  [Nonce: 7]
+2023-03-10 14:35:28  ERROR    Sending TX for 0x4d08F44743D6DE38feB0F87f79Df68B84Fe8eb4A failed [try: 2]: Error: Returned error: invalid sender
+2023-03-10 14:35:30  INFO     Wallet 0xd4a677b7345eea9789Db802bEB82c7A248C1fdE6:  0.178 ETH  [Nonce: 7]
+2023-03-10 14:35:31  ERROR    Sending TX for 0x4d08F44743D6DE38feB0F87f79Df68B84Fe8eb4A failed [try: 3]: Error: Returned error: invalid sender
+2023-03-10 14:35:33  INFO     Wallet 0xd4a677b7345eea9789Db802bEB82c7A248C1fdE6:  0.178 ETH  [Nonce: 7]
+2023-03-10 14:40:00  INFO     # STATS # clients: 0, sessions: 0 (0 H/s, 0 idle), shares: 11 (0.001 ETH), verify: 0 (reward: 0 ETH, missed: 0 / -0 ETH), claims: 0 (0 ETH)
+2023-03-10 14:40:05  INFO     # Received SIGINT signal - shutdown faucet
+2023-03-10 14:40:05  INFO     Persisted session data to faucet store: 5 sessions
+2023-03-10 14:56:36  INFO     Web3 ChainCommon initialized with chainId 97
+2023-03-10 14:56:37  INFO     Wallet 0xd4a677b7345eea9789Db802bEB82c7A248C1fdE6:  0.178 ETH  [Nonce: 7]
+2023-03-10 14:56:39  ERROR    Sending TX for 0x6F3641bfab20527a02520dA2b27cc789E2cF9a89 failed [try: 0]: Error: Returned error: invalid sender
+2023-03-10 14:56:42  INFO     Wallet 0xd4a677b7345eea9789Db802bEB82c7A248C1fdE6:  0.178 ETH  [Nonce: 7]
+2023-03-10 14:56:43  ERROR    Sending TX for 0x6F3641bfab20527a02520dA2b27cc789E2cF9a89 failed [try: 1]: Error: Returned error: invalid sender
+2023-03-10 14:56:45  INFO     Wallet 0xd4a677b7345eea9789Db802bEB82c7A248C1fdE6:  0.178 ETH  [Nonce: 7]
+2023-03-10 14:56:45  ERROR    Sending TX for 0x6F3641bfab20527a02520dA2b27cc789E2cF9a89 failed [try: 2]: Error: Returned error: invalid sender
+2023-03-10 14:56:48  INFO     Wallet 0xd4a677b7345eea9789Db802bEB82c7A248C1fdE6:  0.178 ETH  [Nonce: 7]
+2023-03-10 14:56:48  ERROR    Sending TX for 0x6F3641bfab20527a02520dA2b27cc789E2cF9a89 failed [try: 3]: Error: Returned error: invalid sender
+2023-03-10 14:56:50  INFO     Wallet 0xd4a677b7345eea9789Db802bEB82c7A248C1fdE6:  0.178 ETH  [Nonce: 7]
+2023-03-10 14:56:50  ERROR    Sending TX for 0xd4a677b7345eea9789Db802bEB82c7A248C1fdE6 failed [try: 0]: Error: Returned error: invalid sender
+2023-03-10 14:56:53  INFO     Wallet 0xd4a677b7345eea9789Db802bEB82c7A248C1fdE6:  0.178 ETH  [Nonce: 7]
+2023-03-10 14:56:53  ERROR    Sending TX for 0xd4a677b7345eea9789Db802bEB82c7A248C1fdE6 failed [try: 1]: Error: Returned error: invalid sender
+2023-03-10 14:56:55  INFO     Wallet 0xd4a677b7345eea9789Db802bEB82c7A248C1fdE6:  0.178 ETH  [Nonce: 7]
+2023-03-10 14:56:56  ERROR    Sending TX for 0xd4a677b7345eea9789Db802bEB82c7A248C1fdE6 failed [try: 2]: Error: Returned error: invalid sender
+2023-03-10 14:56:58  INFO     Wallet 0xd4a677b7345eea9789Db802bEB82c7A248C1fdE6:  0.178 ETH  [Nonce: 7]
+2023-03-10 14:56:58  ERROR    Sending TX for 0xd4a677b7345eea9789Db802bEB82c7A248C1fdE6 failed [try: 3]: Error: Returned error: invalid sender
+2023-03-10 14:56:59  INFO     Created new session: bc5f83f2-48e0-4ff8-cfc8-d9a9d1ce51a7 (Remote IP: ::1)
+2023-03-10 14:57:01  INFO     Wallet 0xd4a677b7345eea9789Db802bEB82c7A248C1fdE6:  0.178 ETH  [Nonce: 7]
+2023-03-10 14:57:01  ERROR    Sending TX for 0x4d08F44743D6DE38feB0F87f79Df68B84Fe8eb4A failed [try: 0]: Error: Returned error: invalid sender
+2023-03-10 14:57:03  INFO     Wallet 0xd4a677b7345eea9789Db802bEB82c7A248C1fdE6:  0.178 ETH  [Nonce: 7]
+2023-03-10 14:57:04  ERROR    Sending TX for 0x4d08F44743D6DE38feB0F87f79Df68B84Fe8eb4A failed [try: 1]: Error: Returned error: invalid sender
+2023-03-10 14:57:06  INFO     Wallet 0xd4a677b7345eea9789Db802bEB82c7A248C1fdE6:  0.178 ETH  [Nonce: 7]
+2023-03-10 14:57:06  ERROR    Sending TX for 0x4d08F44743D6DE38feB0F87f79Df68B84Fe8eb4A failed [try: 2]: Error: Returned error: invalid sender
+2023-03-10 14:57:09  INFO     Wallet 0xd4a677b7345eea9789Db802bEB82c7A248C1fdE6:  0.178 ETH  [Nonce: 7]
+2023-03-10 14:57:09  ERROR    Sending TX for 0x4d08F44743D6DE38feB0F87f79Df68B84Fe8eb4A failed [try: 3]: Error: Returned error: invalid sender
+2023-03-10 14:57:11  INFO     Wallet 0xd4a677b7345eea9789Db802bEB82c7A248C1fdE6:  0.178 ETH  [Nonce: 7]
+2023-03-10 14:57:33  INFO     Closed session: bc5f83f2-48e0-4ff8-cfc8-d9a9d1ce51a7 (claimable reward: 0.001)
+2023-03-10 14:57:36  ERROR    Sending TX for 0xc56E2d783729Fa21ac4CD711EBb895130335A4F3 failed [try: 0]: Error: Returned error: invalid sender
+2023-03-10 14:57:40  INFO     Wallet 0xd4a677b7345eea9789Db802bEB82c7A248C1fdE6:  0.178 ETH  [Nonce: 7]
+2023-03-10 14:57:40  ERROR    Sending TX for 0xc56E2d783729Fa21ac4CD711EBb895130335A4F3 failed [try: 1]: Error: Returned error: invalid sender
+2023-03-10 14:57:42  INFO     Wallet 0xd4a677b7345eea9789Db802bEB82c7A248C1fdE6:  0.178 ETH  [Nonce: 7]
+2023-03-10 14:57:42  ERROR    Sending TX for 0xc56E2d783729Fa21ac4CD711EBb895130335A4F3 failed [try: 2]: Error: Returned error: invalid sender
+2023-03-10 14:57:45  INFO     Wallet 0xd4a677b7345eea9789Db802bEB82c7A248C1fdE6:  0.178 ETH  [Nonce: 7]
+2023-03-10 14:57:45  ERROR    Sending TX for 0xc56E2d783729Fa21ac4CD711EBb895130335A4F3 failed [try: 3]: Error: Returned error: invalid sender
+2023-03-10 14:57:47  INFO     Wallet 0xd4a677b7345eea9789Db802bEB82c7A248C1fdE6:  0.178 ETH  [Nonce: 7]
+2023-03-10 15:00:00  INFO     # STATS # clients: 0, sessions: 0 (0 H/s, 0 idle), shares: 10 (0.001 ETH), verify: 0 (reward: 0 ETH, missed: 0 / -0 ETH), claims: 0 (0 ETH)
+2023-03-10 15:07:49  INFO     Wallet 0xd4a677b7345eea9789Db802bEB82c7A248C1fdE6:  0.178 ETH  [Nonce: 7]
+2023-03-10 15:10:00  INFO     # STATS # clients: 0, sessions: 0 (0 H/s, 0 idle), shares: 0 (0 ETH), verify: 0 (reward: 0 ETH, missed: 0 / -0 ETH), claims: 0 (0 ETH)
+2023-03-10 15:17:49  INFO     Wallet 0xd4a677b7345eea9789Db802bEB82c7A248C1fdE6:  0.178 ETH  [Nonce: 7]
+2023-03-10 15:17:55  INFO     # Received SIGINT signal - shutdown faucet
+2023-03-10 15:17:55  INFO     Persisted session data to faucet store: 6 sessions
